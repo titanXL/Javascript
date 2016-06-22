@@ -95,9 +95,7 @@ var imdb = imdb || {};
 			}
 		});
 
-		// Task 2 - Add event listener for movies boxes
-
-		// Task 3 - Add event listener for delete button (delete movie button or delete review button)
+		
 	}
 
 	function loadGenres(genres) {
